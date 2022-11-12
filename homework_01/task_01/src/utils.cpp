@@ -2,4 +2,6 @@
 
 #include <stack>
 
-std::vector<std::string> SplitString(const std::string& data) { return {data}; }
+std::vector<std::string> SplitString(const std::string& data) {
+  return {data};
+}  // comment
